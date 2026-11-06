@@ -13,3 +13,9 @@ I work across interfaces, backend logic and data, from the initial need through 
 I'm building and experimenting with personal workflows around existing agent tools, rather than developing an agent framework from scratch. This work is still in progress, not a track record of client AI deployments.
 
 I keep this separate from the web project above: its rule-based import automation is not an AI-agent system.
+
+## Contact
+
+Open to freelance web development work. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/romain-pereira-652147146/).
+
+Je réponds en français ou en anglais.
