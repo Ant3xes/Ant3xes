@@ -1,10 +1,16 @@
 # Romain Pereira
 
-I'm a software engineer based near Paris, with a professional background in Java and backend development. My current focus is building web applications and exploring personal automation with AI agents.
+Freelance full-stack developer based near Paris. Seven years of Java and JavaScript/TypeScript on large industrial and financial systems, now taking on fixed-price web projects and exploring automation with AI agents.
 
+## Background
+
+- **Dassault Systèmes (2024–2026)**: cloud publication of engineering models. Java integration of model-history APIs (a cache rework cut processing time to a third), a generic REST adapter layer federating searches across business domains, web integration in JavaScript, functional specifications.
+- **Viveris**: React features on a training-platform product, and a Flutter proof of concept built from scratch.
+- **BNP Paribas**: Spring Boot back end for leasing contracts; API management (JWT, OAuth2, OpenID Connect) and traffic monitoring.
+- Master's degree in full-stack development, EFREI Paris.
 ## Web development
 
-I work across interfaces, backend logic and data, from the initial need through to deployment.
+I work across interfaces, backend logic and data, from the initial need through to deployment. Day to day: TypeScript, React, Next.js, Supabase and Java.
 
 - [Budget & Comptes](https://github.com/Ant3xes/budget_web_app) — a personal budgeting application I maintain, with bank-file imports, categorisation and budget tracking. Built with Next.js, TypeScript and Supabase. A personal project, not a client reference; setup and operational constraints are documented in the repository.
 
