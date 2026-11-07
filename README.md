@@ -8,6 +8,7 @@ Freelance full-stack developer based near Paris. Seven years of Java and JavaScr
 - **Viveris**: React features on a training-platform product, and a Flutter proof of concept built from scratch.
 - **BNP Paribas**: Spring Boot back end for leasing contracts; API management (JWT, OAuth2, OpenID Connect) and traffic monitoring.
 - Master's degree in full-stack development, EFREI Paris.
+
 ## Web development
 
 I work across interfaces, backend logic and data, from the initial need through to deployment. Day to day: TypeScript, React, Next.js, Supabase and Java.
