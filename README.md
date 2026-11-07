@@ -1,6 +1,6 @@
 # Romain Pereira
 
-Freelance full-stack developer based near Paris. Seven years of Java and JavaScript/TypeScript on large industrial and financial systems, now taking on fixed-price web projects and exploring automation with AI agents.
+Freelance full-stack developer based near Paris. Seven years of Java and JavaScript/TypeScript on large industrial and financial systems, now taking on web projects and exploring automation with AI agents.
 
 ## Background
 
