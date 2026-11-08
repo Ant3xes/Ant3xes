@@ -4,7 +4,7 @@ Freelance full-stack developer based near Paris. I have worked in software since
 
 ## Background
 
-- **Dassault Systèmes (2024–2026)**: cloud publication of engineering models. Java integration of model-history APIs (a cache rework cut processing time to a third), a generic REST adapter layer federating searches across business domains, web integration in JavaScript, functional specifications.
+- **Dassault Systèmes (2024–2026)**: cloud publication of engineering models. Java APIs for model history and versioning, a generic REST adapter layer federating searches across business domains, web integration in JavaScript, functional specifications.
 - **Viveris (2022–2023)**: React features on a large training platform, and a Flutter proof of concept built from scratch.
 - **BNP Paribas Leasing Solutions (2021–2022)**: Spring Boot back end for leasing contracts.
 - **BNP Paribas Personal Finance (2019–2021)**: API deployment and security (JWT, OAuth2, OpenID Connect) and traffic monitoring with Splunk.
