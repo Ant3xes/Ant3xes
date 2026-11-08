@@ -1,12 +1,14 @@
 # Romain Pereira
 
-Freelance full-stack developer based near Paris. Seven years of Java and JavaScript/TypeScript on large industrial and financial systems, now taking on web projects and exploring automation with AI agents.
+Freelance full-stack developer based near Paris. I have worked in software since 2017, mostly in Java and JavaScript/TypeScript on large industrial and financial systems, and I now take on web projects and explore automation with AI agents.
 
 ## Background
 
 - **Dassault Systèmes (2024–2026)**: cloud publication of engineering models. Java integration of model-history APIs (a cache rework cut processing time to a third), a generic REST adapter layer federating searches across business domains, web integration in JavaScript, functional specifications.
-- **Viveris**: React features on a training-platform product, and a Flutter proof of concept built from scratch.
-- **BNP Paribas**: Spring Boot back end for leasing contracts; API management (JWT, OAuth2, OpenID Connect) and traffic monitoring.
+- **Viveris (2022–2023)**: React features on a large training platform, and a Flutter proof of concept built from scratch.
+- **BNP Paribas Leasing Solutions (2021–2022)**: Spring Boot back end for leasing contracts.
+- **BNP Paribas Personal Finance (2019–2021)**: API deployment and security (JWT, OAuth2, OpenID Connect) and traffic monitoring with Splunk.
+- **Veolia (2017–2019)**: test automation in C# .NET and Selenium on a waste-management web application.
 - Master's degree in full-stack development, EFREI Paris.
 
 ## Web development
