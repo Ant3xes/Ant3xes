@@ -16,6 +16,7 @@ Freelance full-stack developer based near Paris. I have worked in software since
 I work across interfaces, backend logic and data, from the initial need through to deployment. Day to day: TypeScript, React, Next.js, Supabase and Java.
 
 - [Budget & Comptes](https://github.com/Ant3xes/budget_web_app) — a personal budgeting application I maintain, with bank-file imports, categorisation and budget tracking. Built with Next.js, TypeScript and Supabase. A personal project, not a client reference; setup and operational constraints are documented in the repository.
+- [Invoice batch to CSV](https://github.com/Ant3xes/pdf-to-csv) — a local review tool that turns supplier PDFs and invoice photos into an editable table and a CSV export. Flask and JavaScript interface in a macOS desktop wrapper, with supplier-specific extraction rules and OCR. Rule-based, no LLM; the interface is in French.
 
 ## Automation & AI agents
 
